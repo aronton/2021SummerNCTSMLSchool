@@ -1,1 +1,1 @@
-# 2021_Summer_NCTS_AI
+# 2021SummerNCTSMLSchool
